@@ -5,19 +5,13 @@ on:
     branches:
       - main
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Generate org-roam-ui page
         uses: ikoamu/org-roam-ui-hosting@main
         with:
           org-roam-directory: roam
           org-roam-db-filename: org-roam.db
           site-title: DigitalGardener
-          deploy-to-pages: true
