@@ -15,3 +15,4 @@ jobs:
           org-roam-directory: roam
           org-roam-db-filename: org-roam.db
           site-title: DigitalGardener
+          deploy-to-pages: true
