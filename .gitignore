@@ -1,0 +1,10 @@
+node_modules/
+DS_Store
+graphdata.json
+searchdata.json
+notes/
+org-roam-ui/
+out/
+
+# Fuse.js index
+fuse-index.json
