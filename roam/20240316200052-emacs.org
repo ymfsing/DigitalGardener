@@ -4,6 +4,16 @@
 #+title: Emacs
 #+filetags: :emacs:
 
+
 [[./img/emacs-logo.png]]
 
 awesome text editor.
+
+
+[[https://en.wikipedia.org/wiki/Emacs][Emacs - Wikipedia]]
+
+[[https://www.gnu.org/software/emacs/][GNU Emacs - GNU Project]]
+
+[[https://www.emacswiki.org/emacs/SiteMap][EmacsWiki: Site Map]]
+
+[[https://emacs-china.org/][Emacs China]]

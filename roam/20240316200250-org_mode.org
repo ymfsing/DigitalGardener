@@ -3,6 +3,8 @@
 :ROAM_REFS: https://orgmode.org/
 :END:
 #+title: org-mode
+#+filetags: :org-mode:
+
 
 [[./img/org-mode-unicorn.svg]]
 

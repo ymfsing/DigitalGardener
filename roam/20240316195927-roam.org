@@ -7,6 +7,4 @@
 
 https://roamresearch.com/
 
-A note-taking tool for networked thought.
-
-[[id:267B7760-3A3F-4FC7-980C-4CBE6CA7AFCF][zettelkasten]]
+A note-taking tool for networked thought by [[id:267B7760-3A3F-4FC7-980C-4CBE6CA7AFCF][zettelkasten]] .
