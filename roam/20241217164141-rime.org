@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       45605C3E-36D1-4FCB-9BD9-27E95FD1FB9A
+:END:
+#+title: rime
+#+filetags: :input:
+
+
+* What
+
+[[https://zh.wikipedia.org/zh-hk/%E4%B8%AD%E5%B7%9E%E9%9F%BB%E8%BC%B8%E5%85%A5%E6%B3%95%E5%BC%95%E6%93%8E][中州韻輸入法引擎 - 維基百科，自由的百科全書]]
+
+中州韻輸入法引擎（英語：Rime Input Method Engine，又稱Rime輸入法）是由佛振編寫的開放原始碼的中文輸入法，目前專案網站、原始碼均寄存在GitHub。基於同一個核心架構，該輸入法分為三個官方發行版：Linux 發行版中州韻（ibus-rime）、Windows發行版小狼毫（Weasel）、macOS 發行版鼠鬚管（Squirrel）。另有數個第三方發行版：Linux 發行版fcitx-rime、Windows發行版PRIME、macOS 發行版XIME、Android發行版同文輸入法（Trime）、iOS發行版iRime。
+
+[[https://rime.im/][RIME | 中州韻輸入法引擎]]
+
+[[https://github.com/rime][RIME · GitHub]]
+
+
+
+* How
+
+** Install rime
+
+#+BEGIN_SRC shell
+
+brew install --cask squirrel
+
+#+END_SRC
+
+** Install DictionaryPack
+
+[[https://github.com/amzxyz/RIME-LMDG/releases][Releases · amzxyz/RIME-LMDG]]
+
+** Configuration
+
+Add ~rime_frost.custom.yaml~
+
+#+BEGIN_SRC yaml
+
+patch:
+  grammar:
+    language: amz-v2n3m1-zh-hans  
+    collocation_max_length: 5
+    collocation_min_length: 2
+  translator/contextual_suggestions: true
+  translator/max_homophones: 7
+  translator/max_homographs: 7
+
+#+END_SRC
+
+[[https://github.com/rime/home/wiki/UserGuide][UserGuide · rime/home Wiki · GitHub]]
+
+Change anything you want.
+
+
+
+* Links
+
+[[https://emacs-china.org/t/rime/28508][为rime的输入方案启用语言模型 - 闲聊灌水 - Emacs China]]
+
+[[https://manateelazycat.github.io/2024/12/17/fcitx-best-config/][Fcitx 最佳配置实践 (附带语言大模型) 2024-12-17]]
+
+[[https://moqiyinxing.chunqiujinjing.com/index][简介 | 墨奇音形·万象双拼辅助码·白霜拼音]]
+
+[[https://github.com/gaboolic/rime-frost][GitHub - gaboolic/rime-frost: 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。]]
+
+[[https://github.com/iDvel/rime-ice][GitHub - iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库]]
+
+[[https://github.com/tumuyan/rime-melt][GitHub - tumuyan/rime-melt: 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。]]
+
+[[https://github.com/rime/squirrel/wiki/%E7%A6%81%E7%94%A8-Squirrel-%E8%8B%B1%E6%96%87%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%B7%A6%E4%BE%A7-Shift-%E5%88%87%E6%8D%A2%E4%B8%AD%E8%8B%B1][禁用 Squirrel 英文模式，使用左侧 Shift 切换中英 · rime/squirrel Wiki · GitHub]]
+
+[[https://gjrobert.github.io/Rime-See-Me-squirrel/][Rime 西米 for Squirrel]]
+
+[[https://github.com/ayaka14732/awesome-rime][GitHub - ayaka14732/awesome-rime: A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表]]

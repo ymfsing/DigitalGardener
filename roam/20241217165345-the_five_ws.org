@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       D2F5BD8D-CABA-4E2D-876E-9326B0CAFB65
+:END:
+#+title: The Five Ws
+#+filetags: :think:
+
+
+[[https://en.wikipedia.org/wiki/Five_Ws][Five Ws - Wikipedia]]
+
+
+The Five Ws is a checklist used in journalism to ensure that the "lead" or "lede" contains all the essential points of a story. As far back as 1913, reporters were taught that the lead/lede should answer these questions:
+
+Who? - Asking about a person or animal
+What? - Asking about an object or action
+When? - Asking about a time
+Where? - Asking about a place
+Why? - Asking about a reason or cause
+How? - Asking about the way something is done

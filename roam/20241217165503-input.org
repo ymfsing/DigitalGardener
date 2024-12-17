@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8B54628E-2059-4306-BEB2-BAB4297ADFFB
+:END:
+#+title: Input
+
+
+[[id:45605C3E-36D1-4FCB-9BD9-27E95FD1FB9A][rime]]
+
+
+* DictionaryPack
+
+[[https://github.com/felixonmars/fcitx5-pinyin-zhwiki][GitHub - felixonmars/fcitx5-pinyin-zhwiki: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org]]
+
+[[https://github.com/outloudvi/mw2fcitx][GitHub - outloudvi/mw2fcitx: Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)]]
+
+
+[[https://github.com/studyzy/imewlconverter][GitHub - studyzy/imewlconverter: ”深蓝词库转换“ 一款开源免费的输入法词库转换程序]]
+
+[[https://github.com/studyzy/imewlconverter/wiki/MacPlist][MacPlist · studyzy/imewlconverter Wiki · GitHub]]
