@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       a6df50b9-89a8-446a-9fb7-f378c301e0c8
+:END:
+#+title: 20250113-20250119
+#+filetags: :info:weekly:
+
+
+* 1、 Measuring personal growth
+
+Try to become a new person every 3-6 years.
+Try to solve big problems as fast as possible. I think of this as creating safety nets that allow me to take bigger risks and explore more things in the future.
+
+[[https://huyenchip.com//2024/04/17/personal-growth.html][Measuring personal growth]]
+
+
+* 2、Less is more
+
+[[https://yinji.org/5366.html][Less is more - 印记]]
+
+
+* 3、抖音大脑，与劣质多巴胺的狂飙时代
+
+自律的本质，是优质多巴胺。
+
+[[https://mp.weixin.qq.com/s/7K3Y4eVlY3rBlb5WQoKQ-A][抖音大脑，与劣质多巴胺的狂飙时代]]
+
+
+* 4、 7个习惯帮你掌控人生节奏——从内耗到高效的思维训练
+
+习惯1：积极主动——情绪稳定，是最高级的自律
+        刺激与回应之间存在一段距离，成长和幸福的关键就在这里。
+习惯2：以终为始——目标清晰，才能高效规划
+习惯3：要事第一——摆脱瞎忙，抓住关键任务
+        分不清轻重缓急的人，注定活在混乱中。
+习惯4：双赢思维——共赢才是最长久的胜利
+习惯5：知己知彼——首先理解他人，然后再寻求被理解
+        倾听不是在等待说话的机会，而是为了理解对方的世界。
+习惯6：综合统效——协作共创，让1+1>2
+习惯7：不断更新——持续成长，拒绝停滞
+
+[[https://m.okjike.com/originalPosts/677a55697b0ec1ac86032709][《7个习惯帮你掌控人生节奏——从内耗到高效的思维训练》 今 - 即刻App]]
+
+
+* 5、 每个人每天都只有24小时，希望我的选择真的是我的选择
+
+“社会规范”的更新是滞后的，而社会变革是超前的。这就解释了为什么我们学校教育的“家国理想”，市场需要的“商业技能”，和家庭提倡的“传统责任”，会有相当程度的不同，以及它们之间产生的张力对学生时代的我们造成的不同方向上的拉扯。
+
+接受多巴胺的驱动，很舒服。随大流，很舒服。而向内探索，拨开层层保护，找到真正想要的东西，很痛苦。但无论是随大流的痛苦还是向内探索的痛苦，都是值得庆幸的。因为如果不了解这个世界“存在另一种可能”的话，就不会产生痛苦。
+
+人生是自己的。每个人每天都只有24小时。选择做什么是我的选择，但我希望确保真的是我的选择。
+
+My goal for the future isn’t to avoid mistakes, it’s for the mistakes I do make to be my own.
+
+[[https://justinyan.me/post/5790][每个人每天都只有24小时，希望我的选择真的是我的选择 | 枫言枫语]]
+
+
+* 6、 Cursor 使用思路
+
+[[https://x.com/s1ntone/status/1880052416374304785][sintone on X: "很多人吐槽 Cursor 只能用来做小玩具，做大项目没法用。也有很多人认为它非常高效，做大项目没问题。 🪄我有一个魔法 PROMPT，能帮助你瞬间改变 Cursor 使用思路，从小白变成高工。 ⏰我从去年 Cursor https://t.co/ULJMsFcklZ" / X]]
