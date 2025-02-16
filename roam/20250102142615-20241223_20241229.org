@@ -2,6 +2,7 @@
 :ID:       E1D5A48C-8511-4087-BD75-8925817B3D0A
 :END:
 #+title: 20241223-20241229
+#+filetags: :weekly:info:
 
 
 * 1、纳瓦尔宝典语录
