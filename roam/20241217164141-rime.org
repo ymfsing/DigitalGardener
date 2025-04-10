@@ -27,9 +27,13 @@ brew install --cask squirrel
 
 #+END_SRC
 
+
 ** Install DictionaryPack
 
-[[https://github.com/amzxyz/RIME-LMDG/releases][Releases · amzxyz/RIME-LMDG]]
+[[https://github.com/amzxyz/rime_wanxiang_pro][GitHub - amzxyz/rime_wanxiang_pro: Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语言模型，输入不再纠结。支持全拼，7种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua等功能扩展，大大增强使用体验。　　Q群：11033572]]
+
+[[https://github.com/amzxyz/RIME-LMDG/releases/tag/LTS][Release Rime万象向量词库、万象语法模型长期支持版本正式发布 · amzxyz/RIME-LMDG · GitHub]]
+
 
 ** Configuration
 
@@ -39,7 +43,7 @@ Add ~rime_frost.custom.yaml~
 
 patch:
   grammar:
-    language: amz-v2n3m1-zh-hans  
+    language: amz-v2n3m1-zh-hans
     collocation_max_length: 5
     collocation_min_length: 2
   translator/contextual_suggestions: true
